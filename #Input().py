@@ -1,0 +1,5 @@
+#Input()
+Name=input("Enter a Name:")
+Age=input("Enter age:")
+print(f"Your name is {Name}")
+print(f"Your are {Age} years old")

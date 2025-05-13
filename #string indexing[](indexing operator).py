@@ -1,0 +1,7 @@
+a=int(input("Enter a number"))
+b=int(input("Enter a number"))
+print("The value of addition is" ,a+b)
+print("The value of subtraction is" ,a-b)
+print("The value of multiplication is" ,a*b)
+print("The value of division is" ,a/b)
+print("The value of modulus is" ,a%b)
